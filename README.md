@@ -6,7 +6,7 @@
 
 ### FOSS Contributions 💻
 - [SARIF.nvim](https://github.com/nifey/sarif.nvim) : A Neovim plugin to view [SARIF](https://sarifweb.azurewebsites.net/) formatted results
-- [Epub2Sphinx](https://github.com/nifey/epub2sphinx) : A tool to convert EPUB files 
+- [Epub2Sphinx](https://github.com/nifey/epub2sphinx) : A tool to convert EPUB files to HTML files. FOSSHack 2021 Winner [[Blog post](https://nihaal.me/post/fosshack_2021/)]
 - [Cleanup Patches accpeted to Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=abdun+Nihaal)
 - [Discovered a new variant of Trojan Source attack](https://github.com/nickboucher/trojan-source/pull/21)
 
@@ -17,13 +17,14 @@
 - 12 Mar 2022 @ ILUGC : Coccinelle [[Slides](https://nihaal.me/reveal.js/presentations/ilugc/coccinelle)]
 - 11 Dec 2021 @ ILUGC : Trojan Source [[Slides](https://nihaal.me/reveal.js/presentations/ilugc/trojan_source)]
 - 11 Sep 2021 @ ILUGC : Two uses for Single Board Computers [[Slides](https://nihaal.me/reveal.js/presentations/ilugc/znc_pihole)]
-- 12 Jun 2021 @ ILUGC : RSync [[Slides](https://nihaal.me/reveal.js/presentations/ilugc/rsync)]
+- 12 Jun 2021 @ ILUGC : RSync [[Slides](https://nihaal.me/reveal.js/presentations/ilugc/rsync)] [[Blog Post](https://nihaal.me/post/rsync/)]
 - 13 Feb 2021 @ ILUGC : Huge pages in Linux [[Slides](https://nihaal.me/reveal.js/presentations/thp/)]
 - 09 Jan 2021 @ ILUGC : Managing dotfiles with GNU Stow [[Slides](https://nihaal.me/reveal.js/presentations/stow/)]
 - 10 Oct 2020 @ ILUGC : Profiling with BPFTrace [[Slides](https://nihaal.me/reveal.js/presentations/bpftrace/)]
 - 09 Jun 2018 @ ILUGC : Make your first Linux kernel patch [[Slides](https://nihaal.me/reveal.js/presentations/kernelpatch/)]
 
 ### Research 👨‍🎓
+- [How to do research?](https://nihaal.me/post/how_to_research/)
 - [Ret](https://github.com/nifey/ret) : A python tool to automate running experiments and plotting them
 - [NBench](https://github.com/nifey/nbench) : Port of Parboil 2.5 and Rodinia 3.1 benchmarks to CUDA Unified memory 
 
@@ -41,12 +42,12 @@
 ### Silly little games 🎮
 - [Inter Planetary Internet](https://github.com/nifey/ipi) [[Play](https://js13kgames.com/2020/games/inter-planetary-internet)]
 - [Left and Right](https://github.com/nifey/leftandright) [[Play](https://js13kgames.com/games/left-and-right)]
-- [Lost in the Woods](https://github.com/nifey/lost-in-the-woods) [[Play](https://js13kgames.com/games/lost-in-the-woods)]
+- [Lost in the Woods](https://github.com/nifey/lost-in-the-woods) [[Play](https://js13kgames.com/games/lost-in-the-woods)] [[Blog post](https://nihaal.me/post/2017-10-20-lost-in-the-woods-my-entry-for-js13kgames/)]
 - [Pong using C,SDL2](https://github.com/nifey/pong) 
 - [TicTacToe in Rust](https://github.com/nifey/tictactoe)
 
 ### Silly little projects 🧭
 - Chat application built using JavaFx and Java Nio ([Client](https://github.com/nifey/ChatApplication-Client), [Server](https://github.com/nifey/ChatApplication-Server))
 - [VerilogViz](https://github.com/nifey/VerilogViz) (unfinished) : A tool to visualize circuits written in Verilog
-- [Spot Backend](https://github.com/nifey/Spot_Backend) : Smart India Hackathon 2018
+- [Spot Backend](https://github.com/nifey/Spot_Backend) : Smart India Hackathon 2018 [[Blog post](https://nihaal.me/post/2018-09-15-smart-india-hackathon-2018/)]
 - [Facemash](https://github.com/nifey/Facemash) : Facemash using Elo rating system
