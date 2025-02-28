@@ -33,6 +33,7 @@
 - [Verilog generator for Carry Ripple, Carry Lookahead Adders and Wallace Tree Multiplier](https://github.com/nifey/cad_for_vlsi) (CAD for VLSI course assignment)
 - [Matrix Transpose Accelerator in Bluespec System Verilog](https://github.com/nifey/bluespec_project) (CAD for VLSI project)
 - [Boolean calculator using Unate Recursive Paradigm](https://github.com/nifey/urp) (Project for VLSI CAD course on Coursera)
+- [Reversing Last Level Caches](https://github.com/nifey/reverse_llc) (Secure Processor Microarchitecture Course Project)
 
 ### CTF writeups and Programming challenges 📊
 - [CTF writeups](https://github.com/nifey/ctf)
